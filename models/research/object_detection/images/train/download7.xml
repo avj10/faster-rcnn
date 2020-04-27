@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>download7.jpg</filename>
+	<path>C:\Users\akash jadhav\Desktop\images\train\download7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>front_car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>92</ymin>
+			<xmax>257</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>
